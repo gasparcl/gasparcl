@@ -52,7 +52,7 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 
 <p align="center">
     <!-- STATS CARD -->
-  <img height="auto" width="70%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
+  <img height="auto" width="30%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
   
   <!-- LANGUAGES CARD -->
   <img height="auto" width="30%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,cython,&theme=radical&layout=compact&hide_border=true">
