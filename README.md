@@ -52,10 +52,10 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 
 <p align="center">
     <!-- STATS CARD -->
-  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
   
   <!-- LANGUAGES CARD -->
-  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,cython,&theme=radical&layout=compact&hide_border=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,cython,&theme=radical&layout=compact&hide_border=true">
   <br>
   <br>
   <!-- CONTRIBS CARD -->
@@ -63,6 +63,15 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 </p>
 
 ---
+
+**Contact me:**
+
+<div>
+  <a href="https://www.linkedin.com/in/gasparcl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/gasparcl.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/gasparcl_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gasparcl.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 **gasparcl/gasparcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
