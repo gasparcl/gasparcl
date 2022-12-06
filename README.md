@@ -50,8 +50,8 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 
 **Github analytics:**
 
-<p align="center">
     <!-- STATS CARD -->
+
   <img src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
   
   <!-- LANGUAGES CARD -->
@@ -59,7 +59,6 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 
   <!-- CONTRIBS CARD -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gasparcl&count_private=true&theme=radical&hide_border=true">
-</p>
 
 ---
 
