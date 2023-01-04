@@ -49,6 +49,7 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 ---
 
 **Github analytics:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,c++,cython,html,python,powershell,scss,coffeescript&theme=radical&layout=compact&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <!-- STATS CARD -->
