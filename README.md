@@ -49,13 +49,12 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 ---
 
 **Github analytics:**
+<!-- LANGUAGES CARD -->
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gasparcl" frameborder="0"></iframe>
+
 <p align="center">
   <!-- STATS CARD -->
   <img height="auto" width="75%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
-  
-  <!-- LANGUAGES CARD -->
-  <a height="auto" width="auto" href="https://ionicabizau.github.io/github-profile-languages/api.html?gasparcl">
-    
     
   <!-- CONTRIBS CARD -->
   <img height="auto" width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=gasparcl&count_private=true&theme=radical&hide_border=true">
