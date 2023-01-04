@@ -50,7 +50,7 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 
 **Github analytics:**
 <!-- LANGUAGES CARD -->
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gasparcl" frameborder="0"></iframe>
+  <img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gasparcl">
 
 <p align="center">
   <!-- STATS CARD -->
