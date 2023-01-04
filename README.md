@@ -50,11 +50,11 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 
 **Github analytics:**
 <p align="center">
-    <!-- STATS CARD -->
+  <!-- STATS CARD -->
   <img height="auto" width="75%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
   
   <!-- LANGUAGES CARD -->
-    <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&theme=radical&hide_border=true">
+  <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&theme=radical&hide_border=true">
     
     
   <!-- CONTRIBS CARD -->
