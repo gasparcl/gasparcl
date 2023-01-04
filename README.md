@@ -54,7 +54,7 @@ I am a Full stack web developer, working towards becoming a full cycle developer
   <img height="auto" width="75%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
   
   <!-- LANGUAGES CARD -->
-  <img height="auto" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&theme=radical&hide_border=true&layout=compact">
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gasparcl" frameborder="0"></iframe>
     
     
   <!-- CONTRIBS CARD -->
