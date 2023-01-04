@@ -51,13 +51,13 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 **Github analytics:**
 <p align="center">
   <!-- STATS CARD -->
-  <img height="auto" width="75%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
+  <img height="auto" width="75%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=dracula&hide_border=true">
   
   <!-- TOP LANGUAGES CARD -->
-  <img height="auto" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gasparcl&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="gasparcl" />
+  <img height="auto" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gasparcl&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="gasparcl" />
     
   <!-- CONTRIBS CARD -->
-  <img height="auto" width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=gasparcl&count_private=true&theme=radical&hide_border=true">
+  <img height="auto" width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=gasparcl&count_private=true&theme=dracula&hide_border=true">
 </p>
 
 ---
