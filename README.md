@@ -49,14 +49,12 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 ---
 
 **Github analytics:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,c++,cython,html,powershell,scss,coffeescript&theme=radical&layout=compact&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
     <!-- STATS CARD -->
   <img height="auto" width="75%" src ="https://github-readme-stats.vercel.app/api?username=gasparcl&count_private=true&show_icons=true&theme=radical&hide_border=true">
   
   <!-- LANGUAGES CARD -->
-  <img height="auto" width="43%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,cython,html,python,powershell,scss,coffeescript,C++,cpp&theme=radical&layout=compact&hide_border=true">
+  <img height="auto" width="43%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gasparcl&count_private=true&hide=jupyter%20notebook,tex,css,php,c,c++,cython,html,python,powershell,scss,coffeescript,batchfile&theme=radical&layout=compact&hide_border=true">
 
   <!-- CONTRIBS CARD -->
   <img height="auto" width="52%" src="https://github-readme-streak-stats.herokuapp.com?user=gasparcl&count_private=true&theme=radical&hide_border=true">
