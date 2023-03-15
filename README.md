@@ -2,7 +2,7 @@
 
 **About me:**
 
-I am a Full stack web developer, working towards becoming a full cycle developer.
+I am a Backend developer - manly Java -, who also loves Frontend developing - JavaScript, TypeScript, React, Next etc - and a bunch of other tools.
 
 - [Ask me anything here](https://github.com/gasparcl/gasparcl/issues)
 
@@ -65,9 +65,6 @@ I am a Full stack web developer, working towards becoming a full cycle developer
 **Contact me:**
 
 <div>
-  <a href="https://www.linkedin.com/in/gasparcl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-  <a href="https://instagram.com/gasparcl.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/gasparcl_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href = "mailto:gasparcl.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 </div>
 
